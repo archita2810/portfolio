@@ -301,16 +301,16 @@ html,body{
   animation: animate 1s 1s cubic-bezier(1,0,0.5,1) forwards;
 }
 .bar .progress-line.c span{
-  width: 65%;
+  width: 60%;
 }
 .bar .progress-line.cpp span{
-  width: 60%;
+  width: 58%;
 }
 .bar .progress-line.java span{
-  width: 75%;
+  width: 65%;
 }
 .bar .progress-line.dbms span{
-  width: 60%;
+  width: 55%;
 }
 .bar .progress-line.htmlcss span{
   width: 50%;
@@ -348,16 +348,16 @@ html,body{
   }
 }
 .progress-line.c span::after{
-  content: "65%";
+  content: "60%";
 }
 .progress-line.cpp span::after{
-  content: "60%";
+  content: "58%";
 }
 .progress-line.java span::after{
-  content: "75%";
+  content: "62%";
 }
 .progress-line.dbms span::after{
-  content: "60%";
+  content: "55%";
 }
 .progress-line.htmlcss span::after{
   content: "50%";
