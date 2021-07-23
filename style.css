@@ -746,3 +746,12 @@ footer{
   opacity: .4;
   font-weight: 300;
 }
+    /* media queries */
+@media (max-width: 768px){
+
+.footer{
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+}
