@@ -749,7 +749,7 @@ footer{
     /* media queries */
 @media (max-width: 768px){
 
-.footer{
+#footer{
     display: block;
     width: 100%;
     text-align: center;
